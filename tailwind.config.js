@@ -6,8 +6,8 @@ module.exports = {
         
       },
       fontFamily: {
-        header:("Bruno Ace SC"),
-        mono :("Montserrat")
+        header:("Bai Jamjuree"),
+        mono :("Bai Jamjuree")
       }
     },
   },
